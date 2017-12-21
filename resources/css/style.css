@@ -5,7 +5,7 @@ html {
 }
 
 .home {
-  background-image: url("./resources/images/the-flatiron-building.png");
+  background-image: url("C:/Users/Jason.Korolenko/broadway/resources/images/the-flatiron-building.png");
 }
 h1 {
   font-size: 70px;
@@ -32,7 +32,7 @@ h4 {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url("./resources/images/the-flatiron-building.png");
+  background-image: url("C:/Users/Jason.Korolenko/broadway/resources/images/the-flatiron-building.png");
 }
 .footer {
   text-align: left;
