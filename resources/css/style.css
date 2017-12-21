@@ -3,16 +3,21 @@ html {
   text-align: center;
   font-size: 14px;
 }
-#home {
-  background-image: url(/Users/jasonkorolenko/Desktop/Codestuffs/broadway/resources/images/the-flatiron-building.png);
+
+.home {
+  background-image: url("C:/Users/Jason.Korolenko/broadway/resources/images/the-flatiron-building.png");
 }
 h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
 }
-.top_nav {
+.nav {
   font-size: 18px;
+  color: white;
+  font-weight: normal;
+}
+a {
   color: white;
 }
 h2 {
@@ -27,15 +32,11 @@ h4 {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url(/Users/jasonkorolenko/Desktop/Codestuffs/broadway/resources/images/the-flatiron-building.png);
+  background-image: url("C:/Users/Jason.Korolenko/broadway/resources/images/the-flatiron-building.png");
 }
 .footer {
   text-align: left;
-  font-size: 18px;
-  color: white;
-  background-color: dimgray;
-}
-.copyright {
   font-size: 11px;
   color: white;
+  background-color: dimgray;
 }
